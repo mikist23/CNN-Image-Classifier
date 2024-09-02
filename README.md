@@ -1,1 +1,1 @@
-Using tensorflow , python and keras
+Using tensorflow, python and keras
